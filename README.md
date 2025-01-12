@@ -33,7 +33,7 @@ Certifique-se de ter instalado:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/estoque-gpt.git
+   git clone https://github.com/Odisley37/Estoque-IA.git
    cd estoque-gpt
 
 ### Licença
